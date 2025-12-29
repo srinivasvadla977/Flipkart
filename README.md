@@ -33,16 +33,17 @@ Remove products from cart
 View all items in own cart
 
 🛠 Tech Stack
-Layer	Technology
-Language	Java 21
-Framework	Spring Boot
-Security	Spring Security + JWT
-Database	MySQL (Remote – Aiven)
-Password Encoding	BCrypt
-API Documentation	Swagger / OpenAPI
-Build Tool	Maven
-Containerization	Docker
-Hosting	Render
+| Layer | Technology |
+|------|------------|
+| Language | Java 21 |
+| Framework | Spring Boot |
+| Security | Spring Security + JWT |
+| Database | MySQL (Remote – Aiven) |
+| Password Encoding | BCrypt |
+| API Documentation | Swagger / OpenAPI |
+| Build Tool | Maven |
+| Containerization | Docker |
+| Hosting | Render |
 
 🔑 Authentication Flow
 
