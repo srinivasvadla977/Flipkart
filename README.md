@@ -1,10 +1,10 @@
-#🛒 Flipkart Backend Application
+🛒 Flipkart Backend Application
 
 A Spring Boot backend application that simulates core functionalities of an e-commerce platform like Flipkart, supporting Seller and Consumer roles with JWT-based authentication and authorization.
 
 The application is Dockerized, deployed on Render, and uses a cloud-hosted MySQL database (Aiven).
 
-##🚀 Features
+🚀 Features:
 
 👥 User Roles
 
@@ -92,7 +92,7 @@ MySQL hosted on Aiven<br>
 SSL-enabled DB connectivity<br>
 Render-managed port mapping
 
-Required Environment Variables<br>
+Required Environment Variables,<br>
 SPRING_DATASOURCE_URL<br>
 SPRING_DATASOURCE_USERNAME<br>
 SPRING_DATASOURCE_PASSWORD<br>
@@ -113,6 +113,6 @@ Product search & filtering<br>
 Pagination & sorting<br>
 Admin role
 
-👨‍💻 Author : Srinivas V
+👨‍💻 Author : Srinivas V<br>
 Flipkart Backend Project<br>
 Built with ❤️ using Spring Boot, Security, Docker, and Cloud services.
